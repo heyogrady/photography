@@ -1,4 +1,4 @@
-# photography
+# Photography
 
 Hardware
 ---
