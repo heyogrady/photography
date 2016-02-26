@@ -7,6 +7,7 @@ Photobooth Checklist
 - [ ] Batteries
 - [ ] Charger
 - [ ] Tripod
+- [ ] Memory card reader
 
 **Flashes**
 - [ ] Flashes
@@ -45,3 +46,9 @@ Photobooth Checklist
 - [ ] Headlamp
 - [ ] Electrical tape
 - [ ] Duct tape
+
+**Pre Flight**
+- [ ] Charge batteries
+- [ ] Empty memory card
+- [ ] Verify Lightroom settings
+- [ ] Clear hard drive space
