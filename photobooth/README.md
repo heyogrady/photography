@@ -1,5 +1,5 @@
 Photobooth
 ---
 
-* [Checklist](/photbooth/checklist/README.md)
+* [Checklist](/photobooth/checklist/README.md)
 * [Setup Instructions](/photobooth/setup_instructions/README.md)
