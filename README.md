@@ -10,6 +10,10 @@ Software
 - Adobe Photoshop Lightroom 5
 - Canon EOS Utility
 
+Workflows
+---
+- [Photobooth](/photobooth)
+
 Sources
 ---
 - http://thejohnha.blogspot.com/2013/02/guide-to-tethering-your-canon-5d-mark.html
