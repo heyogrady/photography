@@ -18,19 +18,19 @@ Photobooth Setup
     * Attach umbrellas to flash mounts
     * Extend and position flashes
 5. Run extension cord from outlet
-  * Tape down extensions cord to floor if necessary
+    * Tape down extensions cord to floor if necessary
 6. Set up laptop on table
 7. Set up TV on table
-  * Plug in
-  * Connect to laptop via HDMI cable
-  * Turn on and set laptop for second display
+    * Plug in
+    * Connect to laptop via HDMI cable
+    * Turn on and set laptop for second display
 8. Set up camera
-  * Attach flash transmitter
-  * Plug into laptop using USB cable
+    * Attach flash transmitter
+    * Plug into laptop using USB cable
 9. Set up Lightroom
 10. Adjust flash power
-  * 1/4 power
+    * 1/4 power
 11. Adjust base camera settings
-  * f4.0
-  * 1/100
-  * ISO 400
+    * f4.0
+    * 1/100
+    * ISO 400
